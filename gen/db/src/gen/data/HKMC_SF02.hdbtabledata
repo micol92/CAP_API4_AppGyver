@@ -1,0 +1,45 @@
+{
+  "format_version": 1,
+  "imports": [
+    {
+      "target_table": "HKMC_SF02",
+      "source_data": {
+        "data_type": "CSV",
+        "file_name": "HKMC_SF02.csv",
+        "has_header": true,
+        "type_config": {
+          "delimiter": ";"
+        }
+      },
+      "import_settings": {
+        "import_columns": [
+          "SFID02",
+          "SFID01",
+          "ORDNUM",
+          "CUSTNAME",
+          "PRODNAME",
+          "PRCNAME",
+          "PRDQTY",
+          "FLTYQTY",
+          "WORKER",
+          "FACLTYNAME",
+          "NOTE"
+        ],
+        "include_filter": []
+      },
+      "column_mappings": {
+        "SFID02": "sfid02",
+        "SFID01": "sfid01",
+        "ORDNUM": "ordnum",
+        "CUSTNAME": "custname",
+        "PRODNAME": "prodname",
+        "PRCNAME": "prcname",
+        "PRDQTY": "prdqty",
+        "FLTYQTY": "fltyqty",
+        "WORKER": "worker",
+        "FACLTYNAME": "facltyname",
+        "NOTE": "note"
+      }
+    }
+  ]
+}

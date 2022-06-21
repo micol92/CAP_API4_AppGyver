@@ -1,0 +1,4 @@
+sfid03;ordnum;custname;prodname;prcname;worker;workerid;prdqty;fltyqty;fltytype;status;testyn
+3046692a-7d57-4e76-b14c-e53fd97dc11a;SF01-N0001-001;경기1영업소;아이오닉5;주조;성기훈;AAAA;5;2;작업중부품파손;폐기처리;검사완료
+3046692a-7d57-4e76-b14c-e53fd97dc11b;SF01-N0001-001;경기1영업소;아이오닉5;주조;성기훈;AAAA;5;1;부품결함;반품;검사완료
+3046692d-7d57-4e76-b14c-e53fd97dc13a;SF01-N0001-001;경기1영업소;아이오닉5;열처리;오일남;DDDD;10;1;운반중손상;폐기처리;검사완료

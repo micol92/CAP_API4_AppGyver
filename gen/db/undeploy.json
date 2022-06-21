@@ -1,0 +1,8 @@
+[
+    "src/gen/**/*.hdbview",
+    "src/gen/**/*.hdbindex",
+    "src/gen/**/*.hdbconstraint",
+    "src/gen/demotable.hdbtable",
+    "src/default_access_role.hdbrole",
+    "NULL"
+]

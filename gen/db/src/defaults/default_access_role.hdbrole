@@ -1,0 +1,19 @@
+{
+  "role": {
+    "name": "default_access_role",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "DELETE",
+          "EXECUTE",
+          "INSERT",
+          "SELECT CDS METADATA",
+          "UPDATE",
+          "ALTER",
+          "CREATE ANY",
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
